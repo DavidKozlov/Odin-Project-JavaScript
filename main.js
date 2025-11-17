@@ -1,2 +1,3 @@
-const string = "The revolution will not be televised.";
-console.log(string);
+const myString = "123";
+const myNum = Number(myString);
+console.log(typeof myNum);
